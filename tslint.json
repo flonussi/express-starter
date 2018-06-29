@@ -1,0 +1,28 @@
+{
+  "rules": {
+    "no-unreachable": true,
+    "adjacent-overload-signatures": true,
+    "member-access": true,
+    "ban-comma-operator": true,
+    "curly": true,
+    "forin": true,
+    "no-construct": true,
+    "no-duplicate-super": true,
+    "no-duplicate-switch-case": true,
+    "no-duplicate-variable": true,
+    "no-invalid-template-strings": true,
+    "no-misused-new": true,
+    "no-this-assignment": true,
+    "no-unused-variable": true,
+    "deprecation": true,
+    "no-default-export": true,
+    "prefer-const": true,
+    "no-require-imports": true,
+    "semicolon": [true, "always"],
+    "quotemark": [true, "single"],
+    "switch-final-break": true,
+    "prefer-while": true,
+    "prefer-method-signature": true
+
+  }
+}

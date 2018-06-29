@@ -1,0 +1,25 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node-dev src/main.ts"
+  },
+  "author": "flonussi",
+  "dependencies": {
+    "rxjs": "6.2.1",
+    "express": "4.16.3",
+    "moment": "2.22.2",
+    "body-parser": "1.18.3",
+    "reflect-metadata": "0.1.12",
+    "typedi": "0.8.0"
+  },
+  "devDependencies": {
+    "@types/express": "4.16.0",
+    "@types/moment": "2.13.0",
+    "@types/node": "10.5.1",
+    "ts-node-dev": "1.0.0-pre.26",
+    "tsconfig": "7.0.0",
+    "tslint": "5.10.0",
+    "typescript": "2.9.2"
+  }
+}
